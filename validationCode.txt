@@ -1,0 +1,9 @@
+<appSettings>
+   <add key ="ValidationSettings:UnobtrusiveValidationMode" value="None"/>
+</appSettings>
+
+<app Setting>
+<add key = "ValidationSettings:UnobtrusiveValidationMode" value="None">
+</app Setting>
+
+validationSettings:UnobtrusiveValidationMode
